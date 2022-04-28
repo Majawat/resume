@@ -1,0 +1,20 @@
+body {
+  background-color: #F7F4E9;
+  /*https://designshack.net/articles/trends/best-website-color-schemes/#:~:text=and%20sleep%20theme.-,17.%20Atlanta%20Brewing,-%23E40C2B*/
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EBA63F;
+  border-width: 10px;
+  width: 5%;
+}
+
+h1 {
+  color: #438945;
+}
+
+h3 {
+  color: #438945;
+}
